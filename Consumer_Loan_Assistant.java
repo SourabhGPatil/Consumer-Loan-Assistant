@@ -209,7 +209,6 @@ public class Consumer_Loan_Assistant extends JFrame implements ActionListener {
         }
     }
     public static void main(String[] args) {
-        // write your code here
          new Consumer_Loan_Assistant();
     }
 
