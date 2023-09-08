@@ -1,16 +1,26 @@
-# Suven's Java Internship Project #1
-This Program was built in Microsoft Visual Code Studio using Swings.
+**Project Title:** Consumer Loan Assistant
 
-This Project will help you get a handle on consumer debt.
-The Consumer Loan Assistant Project computes payments and loan terms given balance and interest information.
+**Project Description:**
 
-Input is a loan balance and yearly interest rate.
+**Overview:**
+The Consumer Loan Assistant project is a Java-based application developed using Microsoft Visual Code Studio and Swings. It serves as a valuable tool for managing consumer debt by facilitating calculations related to loan payments and loan terms based on user-provided balance and interest information.
 
-We have two options: 
-1. Enter the number of payments you want to make, and the loan assistant will calculate the monthly payment for you, or 
-2. Enter your desired monthly payment and the loan assistant will help you out.
-determines the number of payments you will make.
+**Features:**
+1. **Input Loan Information:** Users can input their loan balance and yearly interest rate to initiate the calculation process.
 
-An analysis of your loan, including the total of payments and interest paid is also given.
+2. **Payment Calculation:** The application offers two distinct calculation options:
+   - *Option 1:* Users can specify the number of payments they intend to make, and the loan assistant will calculate the corresponding monthly payment amount.
+   - *Option 2:* Alternatively, users can input their desired monthly payment amount, and the loan assistant will determine the number of payments required to pay off the loan.
 
-The finished project is saved as "Consumer_Loan_Assistant".
+3. **Comprehensive Analysis:** The Consumer Loan Assistant not only provides payment details but also offers a comprehensive analysis of the loan. This analysis includes:
+   - Total payments over the course of the loan.
+   - Total interest paid on the loan.
+
+**Project Implementation:**
+The project has been developed and implemented as a standalone application named "Consumer_Loan_Assistant."
+
+By using this application, individuals can gain a better understanding of their consumer debt and make informed decisions about their loan repayment strategies.
+
+This project is an excellent opportunity for Java interns to enhance their programming skills while contributing to a valuable financial tool. It enables interns to work with Swing for creating a graphical user interface and perform complex loan calculations.
+
+**Note:** This project is part of Suven's Java Internship Program (#1) and aims to provide interns with practical experience in software development.
