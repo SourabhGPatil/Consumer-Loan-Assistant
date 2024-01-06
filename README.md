@@ -22,5 +22,3 @@ The project has been developed and implemented as a standalone application named
 By using this application, individuals can gain a better understanding of their consumer debt and make informed decisions about their loan repayment strategies.
 
 This project is an excellent opportunity for Java interns to enhance their programming skills while contributing to a valuable financial tool. It enables interns to work with Swing for creating a graphical user interface and perform complex loan calculations.
-
-**Note:** This project is part of Suven's Java Internship Program (#1) and aims to provide interns with practical experience in software development.
