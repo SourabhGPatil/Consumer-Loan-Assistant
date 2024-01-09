@@ -1,4 +1,4 @@
-**Project Title:** Consumer Loan Assistant
+*Project Title:* Consumer Loan Assistant
 
 **Project Description:**
 
